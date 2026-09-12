@@ -399,7 +399,7 @@ This system has been designed and prepared with a real institutional environment
 *Full-Stack Developer*
 
 - Email: [saharaman09@gmail.com](mailto:saharaman09@gmail.com)
-- LinkedIn: [linkedin.com/in/sahar-amanmohammadi](https://www.linkedin.com/in/sahar-amanmohammadi)
+- LinkedIn: [linkedin.com/in/sahar-aman-526905274](https://www.linkedin.com/in/sahar-aman-526905274)
 
 ---
 
