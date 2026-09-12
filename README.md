@@ -92,7 +92,7 @@ The project was built end-to-end by a single developer over five months as a Fin
 
 ### Equipment QR label
 
-<img src="./screenshots/Screenshot%202026-05-18%20131001.png" alt="Equipment QR label" width="240"/>
+<img src="./screenshots/Screenshot%202026-05-18%20131001.png" alt="Equipment QR label" width="820"/>
 
 ---
 
