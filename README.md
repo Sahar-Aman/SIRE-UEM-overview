@@ -62,109 +62,83 @@ The project was built end-to-end by a single developer over five months as a Fin
 
 ### Login
 
-<img src="./screenshots/01-login.png" alt="Login screen" width="820"/>
-
-Institutional login with JWT authentication and password recovery via SMTP.
+<img src="./screenshots/login.png" alt="Login" width="820"/>
 
 ---
 
-### Dashboard (Purchasing Manager view)
+### Purchasing Manager dashboard
 
-<img src="./screenshots/02-dashboard.png" alt="Purchasing manager dashboard" width="820"/>
-
-Role-adapted dashboard showing active stock alerts, pending purchase requests and quick actions.
+<img src="./screenshots/gestor%20de%20compras%20dash.png" alt="Purchasing manager dashboard" width="820"/>
 
 ---
 
 ### Stock alerts
 
-<img src="./screenshots/03-stock-alerts.png" alt="Stock alerts" width="820"/>
-
-Real-time list of materials at or below their configured minimum, with severity levels and one-click review.
+<img src="./screenshots/alertas%20de%20stock.png" alt="Stock alerts" width="820"/>
 
 ---
 
 ### Stock movement history
 
-<img src="./screenshots/04-stock-movements.png" alt="Stock movement history" width="820"/>
-
-Full audit log of stock entries, write-offs, adjustments and location changes, filterable by date, type and employee. CSV export included.
+<img src="./screenshots/historial%20de%20movimientos.png" alt="Stock movement history" width="820"/>
 
 ---
 
-### Equipment record (edit view)
+### Equipment QR code
 
-<img src="./screenshots/05-equipment-edit.png" alt="Equipment edit modal" width="820"/>
-
-Detailed equipment record with photo, PDF user manual, serial number, brand, model, category, location, status and maintenance notes.
+<img src="./screenshots/qr%20code.png" alt="Equipment QR code" width="240"/>
 
 ---
 
-### QR-based equipment identification
+### Equipment QR label
 
-<img src="./screenshots/06-equipment-qr.png" alt="Equipment QR code" width="240"/>
-
-Auto-generated QR code linked to each equipment record for direct access from mobile devices in the lab.
+<img src="./screenshots/Screenshot%202026-05-18%20131001.png" alt="Equipment QR label" width="240"/>
 
 ---
 
 ### Reservations calendar
 
-<img src="./screenshots/07-reservations-calendar.png" alt="Reservations calendar" width="820"/>
-
-Weekly view of approved room reservations with per-room capacity and colour-coded department. Monthly CSV export available.
+<img src="./screenshots/calendario%20de%20reserva%20de%20salas.png" alt="Reservations calendar" width="820"/>
 
 ---
 
-### New room reservation
+### Room reservation form
 
-<img src="./screenshots/08-reservation-request.png" alt="Room reservation request form" width="820"/>
-
-Reservation form with real-time availability check, capacity validation and multi-department support.
+<img src="./screenshots/reserva%20de%20lab.png" alt="Room reservation form" width="820"/>
 
 ---
 
 ### Reservation detail with capacity check
 
-<img src="./screenshots/09-reservation-detail.png" alt="Reservation detail with capacity warning" width="820"/>
-
-Reservation editor with automatic overcapacity detection and suggested split across a secondary room.
+<img src="./screenshots/detalles%20de%20reserva%20de%20sala.png" alt="Reservation detail with capacity check" width="820"/>
 
 ---
 
 ### Bulk reservation upload
 
-<img src="./screenshots/10-bulk-upload.png" alt="Bulk reservation upload" width="820"/>
-
-CSV/XLSX bulk upload for reservations, with downloadable template, pre-validation and detailed error reporting per row.
+<img src="./screenshots/carga%20masiva.png" alt="Bulk reservation upload" width="820"/>
 
 ---
 
-### Bulk upload history
+### Bulk upload conflict handling
 
-<img src="./screenshots/11-bulk-upload-history.png" alt="Bulk upload history with conflicts" width="820"/>
-
-History of bulk uploads with per-batch state (registered, with conflicts) and per-row conflict resolution.
+<img src="./screenshots/conflicto%20en%20reservas.png" alt="Bulk upload conflict handling" width="820"/>
 
 ---
 
 ### New purchase request
 
-<img src="./screenshots/12-purchase-request.png" alt="New purchase request form" width="820"/>
-
-Purchase request form with mandatory product reference, academic context (subject, date, degree) and department targeting.
+<img src="./screenshots/solicitud%20de%20compra.png" alt="New purchase request" width="820"/>
 
 ---
 
 ### Purchase request management
 
-<img src="./screenshots/13-purchase-management.png" alt="Purchase request management" width="820"/>
-
-Purchasing Manager view with filters by requester, offer/order number, status, department and date range. Full CSV export.
+<img src="./screenshots/gestion%20de%20solicitudes.png" alt="Purchase request management" width="820"/>
 
 </div>
 
-> Screenshots live in `./screenshots/` and follow the numbering used above. Recommended width: 1440-1920 px at 72 dpi.
+> Screenshots live in `./screenshots/`.
 
 ---
 
